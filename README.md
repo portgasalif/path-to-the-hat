@@ -12,7 +12,6 @@ An interactive terminal game where players navigate through a field of holes to 
 2. Find your hat without falling into holes
 3. Don't step outside the field!
 
-## Tech Stack
+## Author
 
-- JavaScript
-- Node.js
+Developed by 💻 Alif Fachrel, Built with JavaScript & Node.js
